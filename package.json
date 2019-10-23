@@ -1,7 +1,7 @@
 {
   "name": "push_notifications",
   "productName": "PushNotifications",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "A macOS, Linux, Windows app to test push notifications on iOS and Android",
   "main": "main.js",
   "repository": "https://github.com/onmyway133/PushNotifications",
@@ -44,7 +44,6 @@
     "electron-store": "^2.0.0",
     "fs-extra": "^8.1.0",
     "material-ui": "0.20.1",
-    "node-fetch": "^1.7.2",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-tap-event-plugin": "3.0.2"

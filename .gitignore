@@ -39,3 +39,5 @@ node_modules/
 /brightray/brightray.v12.suo
 /brightray/brightray.xcodeproj/
 *.provisionprofile
+config.bat
+.env
